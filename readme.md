@@ -20,7 +20,7 @@ A Model Context Protocol (MCP) server that provides weather data using the Open-
    ```
 
 3. Start the server:
-  ```bash
+   ```bash
    npm start
    ```
 ### Available Tools
